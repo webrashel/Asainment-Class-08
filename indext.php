@@ -5,7 +5,6 @@
 
 
 
-
 ?>
 <h2>Question -2</h2>
 <?php
